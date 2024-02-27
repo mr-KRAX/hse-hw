@@ -7,3 +7,6 @@
 [submodule "ml/ml-course-hse"]
 	path = ml/ml-course-hse
 	url = https://github.com/mr-KRAX/ml-course-hse.git
+[submodule "sem/hw1_vk"]
+	path = sem/hw1_vk
+	url = git@gitlab.com:add23/hw1_vk.gitgit@gitlab.com:mr-KRAX/hw1_vk.git
