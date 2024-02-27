@@ -1,0 +1,9 @@
+[submodule "dl/deep_learning_dad"]
+	path = dl/deep_learning_dad
+	url = git@github.com:hushchyn-mikhail/deep_learning_dad.git
+[submodule "py/Python_2023_Samolet"]
+	path = py/Python_2023_Samolet
+	url = https://github.com/pileyan/Python_2023_Samolet.git
+[submodule "ml/ml-course-hse"]
+	path = ml/ml-course-hse
+	url = https://github.com/mr-KRAX/ml-course-hse.git
